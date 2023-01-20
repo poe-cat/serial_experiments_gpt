@@ -1,4 +1,4 @@
-package com.openai.gpt3_app_v0;
+package com.openai.openai_app_v0;
 
 import java.util.List;
 

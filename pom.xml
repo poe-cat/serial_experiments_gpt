@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.openai</groupId>
-	<artifactId>gpt-3_app_v0</artifactId>
+	<artifactId>openai_app_v0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gpt-3_app_v0</name>
+	<name>openai_app_v0</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
@@ -20,11 +20,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.squareup.okhttp3</groupId>
-			<artifactId>okhttp</artifactId>
-			<version>3.12.1</version>
 		</dependency>
 
 		<dependency>
